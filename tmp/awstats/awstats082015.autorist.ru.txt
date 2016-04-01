@@ -1,0 +1,522 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /home/autorist/tmp/awstats/awstats.autorist.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2686                
+POS_VISITOR 10600               
+POS_DAY 13564               
+POS_DOMAIN 3444                
+POS_LOGIN 3864                
+POS_ROBOT 4019                
+POS_WORMS 4559                
+POS_EMAILSENDER 4690                
+POS_EMAILRECEIVER 4833                
+POS_SESSION 14302               
+POS_SIDER 14461               
+POS_FILETYPES 4968                
+POS_DOWNLOADS 5124                
+POS_OS 5172                
+POS_BROWSER 5390                
+POS_SCREENSIZE 6347                
+POS_UNKNOWNREFERER 6421                
+POS_UNKNOWNREFERERBROWSER 6744                
+POS_ORIGIN 6859                
+POS_SEREFERRALS 6999                
+POS_PAGEREFS 7165                
+POS_SEARCHWORDS 7521                
+POS_KEYWORDS 7691                
+POS_MISC 2349                
+POS_ERRORS 7768                
+POS_CLUSTER 3720                
+POS_SIDER_404 7854                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150901031226 10 1504 10324152784853
+FirstTime 20150801031013
+LastTime 20150831171147
+LastUpdate 20150901151603 10 0 9 0 0
+TotalVisits 133                 
+TotalUnique 73                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 10 129590 8 11 90713
+1 13 37 2086311 5 6 0
+2 8 8 103672 16 16 64795
+3 24 38 1272336 48 83 896337
+4 19 21 248619 21 34 127230
+5 6 6 77754 23 40 274059
+6 3 3 38877 11 20 58400
+7 0 1 176608 21 46 1075553
+8 4 6 54234 17 41 51836
+9 3 15 997799 14 23 104594
+10 2 5 31598 21 30 158790
+11 5 21 1161509 17 26 153148
+12 2 2 25918 16 22 55118
+13 6 10 82550 9 19 64795
+14 5 17 1023717 12 19 104594
+15 2 14 984840 3 6 49476
+16 1 1 12959 14 26 83434
+17 4 16 1010758 14 25 155508
+18 7 9 93111 31 40 155508
+19 2 2 25918 19 26 207344
+20 5 5 64795 28 41 190534
+21 1 1 12959 31 48 980509
+22 2 16 987238 23 36 184708
+23 5 19 1000250 20 34 161188
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+ru 64 180 9779754
+us 36 44 463210
+ua 9 9 116631
+zz 5 13 74387
+de 5 17 1023717
+cz 4 4 51836
+nl 4 4 51836
+fr 2 2 25918
+lt 2 2 25918
+gb 2 2 25918
+eu 2 2 12959
+ca 1 1 12959
+gi 1 1 12959
+kz 1 1 12959
+ch 1 1 12959
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 89 2513728 20150831084153 0
+googlebot 75 718847 20150831225540 0
+no_user_agent 44 544278 20150831202551 0
+spider 38 349893 20150830222516 0
+bingpreview 14 964456 20150807214005 0
+googlebot\-image 7 0 20150821140731 0
+crawl 6 54234 20150824045846 0
+curl 4 38877 20150811214659 0
+robot 3 12959 20150828162958 0
+slurp 2 25918 20150816164840 0
+[\s_+:,\.\;\/\\-]bot 1 12959 20150801132849 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 12 39384 0 0
+png 21 2617978 0 0
+html 139 1775436 0 0
+js 40 47960 0 0
+jpg 71 7223162 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 26 2
+winlong 1 1
+winxp 70 21
+linuxubuntu 56 32
+linux 12 12
+win7 74 37
+winme 1 1
+macosx9 9 3
+win8 10 7
+win8.1 2 1
+Unknown 5 5
+macosx8 17 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+firefox28.0 3 1
+chrome44.0.2403.125 2 2
+msie6.0 10 10
+chrome40.0.2214.115 1 1
+chrome34.0.1847.137 4 2
+android 13 1
+chrome44.0.2403.130 14 1
+firefox26.0 2 2
+firefox2.0.0.1 1 1
+chrome28.0.1500.95 52 4
+chrome39.0.2171.95 13 1
+firefox18.0 3 3
+opera12.14 1 1
+msie8.0 1 1
+firefox6.0.2 1 1
+chrome43.0.2357.81 30 30
+chrome41.0.2272.101 2 2
+chrome24.0.1312.57 1 1
+chrome37.0.2062.120 4 4
+chrome10.0.648.204 11 11
+chrome19.0.1041.0 1 1
+Unknown 1 1
+opera7.11 1 1
+firefox17.0 6 6
+opera8.00 1 1
+chrome34.0.1847.131 3 1
+firefox21.0 1 1
+firefox29.0 9 3
+firefox3.5.2 1 1
+chrome28.0.1500.71 17 17
+firefox7.0.1 1 1
+chrome43.0.2357.130 26 2
+chrome35.0.1916.114 3 1
+msie11.0 3 2
+firefox39.0 1 1
+mozilla 4 4
+firefox1.0 1 1
+firefox37.0 1 1
+firefox22.0 1 1
+chrome42.0.2311.135 2 2
+msie10.0 11 3
+chrome43.0.2357.134 1 1
+chrome13.0.782.41 1 1
+chrome41.0.2228.0 2 2
+chrome44.0.2403.133 13 1
+chrome23.0.1271.97 1 1
+firefox3.6.13 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_Web-Monitoring/1.0;__http://monoid.nic.ru/) 20150809031446
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150814231306
+Mozilla/4.0_(compatible;_Synapse) 20150805045226
+Python-urllib/3.5 20150819011516
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Python-urllib/3.5 20150819011516
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 106 107
+From1 0 0
+From2 9 10
+From3 12 12
+From4 12 154
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 3
+yandex 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://rinrawalta.7uw.net/land-1669-34.php 5 5
+http://eito.pw 2 2
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://burger-imperia.com 1 1
+http://hundejo.com 1 1
+https://mawords.com/autorist.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.autorist.ru 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.autorist.ru 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 425 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 88
+/admin/content/sitetree/ 2 -
+/robots.txt 157 -
+/language/ru-RU/rssHhQ1.php 1 -
+/user 4 -
+/manager/ 2 -
+/admin.php 38 -
+/forum/ 2 -
+/forums/ 1 -
+/forum/install/upgrade.php 1 -
+/ned.php 3 -
+/manager/templates/default/css/login-min.css 2 -
+/admin/index.php 2 -
+/wp-admin/ 2 -
+/images/win1_bottom.jpg 1 -
+/index.php/admin/ 1 -
+/netcat/admin/ 2 -
+/xmlrpc.php 1 http://autorist.ru/xmlrpc.php
+/manager/media/script/mootools/mootools.js 2 -
+/modules/mod_virtuemart_search/54d0b0.php 1 -
+/wp-content/ 2 -
+/editor/assetmanager/assetmanager.php 1 http://autorist.ru/editor/assetmanager/assetmanager.php
+/forum 1 -
+/node/ 2 -
+/253.html 1 -
+/images/text1.jpg 1 -
+/images/cars.gif 1 -
+/1173.html 1 -
+/manager/templates/default/images/style/modx-logo-header.png 2 -
+/3068.html 1 -
+/1148.html 2 -
+/1918.html 1 -
+/netcat/admin/skins/default/css/style.css 2 -
+/2928.html 1 -
+/sftp-settings.json 1 -
+/administrator/ 11 -
+/bitrix/js/main/core/core.css 2 -
+/images/cms/admin/mac/common/butterfly.png 2 -
+/go 4 -
+/default.php 1 http://autorist.ru/default.php
+/wp-login.php 41 -
+/netcat/admin/skins/default/css/login.css 2 -
+/manager/media/style/MODxCarbon/images/misc/logo.png 2 -
+/manager/media/style/MODxCarbon/images/misc/login-logo.png 2 -
+/manager/templates/default/images/restyle/headers.jpg 2 -
+/bitrix/themes/.default/images/auth_pict.gif 2 -
+/promo/styles/sys.php 1 -
+/4582.html 1 -
+/images/bg_lft.jpg 1 -
+/users/forget/ 2 -
+/modules/system/system.base.css 2 -
+/templates/system/css/system.css 2 -
+/13map.html 1 -
+/4462.html 1 -
+/cashpage.php 1 http://autorist.ru/cashpage.php
+/1730.html 1 -
+/type= 5 -
+/redirect.php 4 -
+/away 2 -
+/netcat/admin/skins/default/img/logo.png 2 -
+/install/upgrade.php 1 -
+/1062.html 7 http://yandex.ru/clck/jsredir
+/modules/system/system.css 2 -
+/1047.html 1 -
+/install/index.php 1 -
+/images/b4r.jpg 1 -
+/backup.sql 1 http://autorist.ru/backup.sql
+/user/login/ 2 -
+/bitrix/themes/.default/adminstyles.css 2 -
+/styles/skins/mac/design/css/style.css 2 -
+/reestr/reestr-id128032.php 1 -
+/users/registrate/ 2 -
+/bitrix/catalog_export/intarocrm.xml 1 -
+/user/ 1 -
+/511.html 1 -
+/installed 2 -
+/administrator/index.php 28 -
+/wp-admin/images/wordpress-logo.png 2 -
+/readme.html 1 -
+/admin 1 http://autorist.ru/admin
+/manager/media/style/MODxCarbon/style.css 2 -
+/1175.html 1 -
+/media/system/js/mootools.js 2 -
+/wp-admin/css/wp-admin.css 2 -
+/bitrix/admin/ 7 -
+/scripts/sys.php 1 -
+/away.php 2 -
+/go.php 4 -
+/user/password/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+109.234.156.66 30 30 388770 20150831005709
+207.90.2.7 10 10 129590 20150831135010
+94.181.180.194 6 6 77754 20150831055522
+46.39.85.155 5 5 64795 20150823033202
+66.249.89.54 4 4 51836 20150821042146
+66.249.89.58 4 4 51836 20150822042320
+93.171.205.23 3 3 38877 20150816010538
+217.69.133.169 3 3 38877 20150821144934
+66.249.92.9 3 3 38877 20150811031152
+95.28.37.122 2 2 25918 20150818001045
+82.146.49.145 2 2 25918 20150825031251
+66.249.92.5 2 2 25918 20150825041758
+31.177.83.38 2 2 25918 20150809031446
+91.122.35.113 2 26 1943762 20150805173134
+66.249.92.1 2 2 25918 20150828045355
+84.240.9.6 2 2 25918 20150805180344
+66.249.92.33 1 1 12959 20150801031013
+207.90.2.70 1 1 12959 20150819115911
+128.68.27.32 1 13 971881 20150810222404
+37.144.39.86 1 1 12959 20150827151136
+162.244.33.8 1 1 12959 20150823030022
+95.220.99.30 1 13 971881 20150826230840
+104.236.227.151 1 3 15357 20150811085049
+213.136.64.63 1 1 12959 20150816051153
+46.61.152.190 1 13 971881 20150810143803
+46.119.77.101 1 1 12959 20150812235510
+185.10.107.69 1 1 0 20150805232633
+66.249.89.28 1 1 53 20150814231306
+185.92.73.98 1 1 12959 20150813012051
+52.0.89.236 1 1 12959 20150818160630
+199.127.226.150 1 1 12959 20150828030043
+195.189.120.55 1 13 971881 20150807113419
+62.212.73.49 1 1 12959 20150827184317
+134.249.52.200 1 1 12959 20150804200808
+144.76.201.69 1 1 12959 20150810183406
+62.117.117.106 1 1 12959 20150810094118
+176.10.104.243 1 1 12959 20150815010358
+176.14.56.235 1 4 18639 20150820110646
+5.18.43.215 1 13 971881 20150816092952
+91.197.64.49 1 1 12959 20150831171147
+195.34.78.84 1 1 12959 20150815203915
+66.249.91.142 1 1 12959 20150826045256
+104.236.82.54 1 3 15357 20150819181044
+45.55.134.4 1 3 15357 20150822130848
+188.165.206.188 1 1 12959 20150823123113
+45.55.135.225 1 3 15357 20150827223259
+5.9.145.132 1 1 12959 20150823103225
+46.119.77.86 1 1 12959 20150828000633
+142.4.218.201 1 1 12959 20150816191909
+46.249.52.234 1 1 12959 20150805045226
+45.55.229.93 1 3 15357 20150816233627
+5.9.112.205 1 13 971881 20150825012744
+5.9.111.213 1 1 12959 20150821035354
+212.3.104.250 1 1 12959 20150819021343
+46.188.73.167 1 13 971881 20150830035759
+104.236.236.26 1 3 15357 20150825033813
+178.62.171.14 1 1 12959 20150819095102
+188.162.185.70 0 1 132112 
+37.130.227.133 1 1 12959 20150816085719
+104.236.68.137 1 3 15357 20150814041823
+77.37.166.251 1 1 12959 20150819011516
+130.193.12.242 1 1 12959 20150827034127
+149.210.224.217 1 1 12959 20150810183406
+62.212.68.156 1 1 12959 20150815181148
+176.14.51.192 1 4 18639 20150820103715
+93.100.131.49 1 1 12959 20150810055813
+81.177.49.236 1 1 12959 20150827063425
+85.140.3.190 1 1 12959 20150823142910
+46.235.64.89 1 1 12959 20150818133102
+85.15.172.70 0 1 176608 
+195.154.184.40 1 1 12959 20150826020004
+93.80.54.171 1 13 971881 20150814011658
+2.133.104.154 1 1 12959 20150812175200
+45.55.134.19 1 3 15357 20150808133823
+166.70.181.109 1 1 12959 20150814135817
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150801 2 2 25918 2
+20150802 1 1 12959 1
+20150803 1 13 971881 1
+20150804 3 3 38877 3
+20150805 6 18 1023717 5
+20150806 3 3 38877 3
+20150807 3 15 997799 3
+20150808 5 7 67193 5
+20150809 4 4 51836 4
+20150810 9 33 2034475 9
+20150811 4 6 54234 4
+20150812 5 6 241403 5
+20150813 3 3 38877 3
+20150814 7 21 1039127 7
+20150815 5 5 64795 5
+20150816 8 22 1064992 8
+20150817 4 4 51836 4
+20150818 5 5 64795 5
+20150819 8 10 106070 8
+20150820 3 9 50237 3
+20150821 7 7 90713 6
+20150822 3 5 41275 3
+20150823 10 10 129590 6
+20150824 2 2 25918 2
+20150825 5 20 1158227 5
+20150826 5 17 1023717 5
+20150827 6 8 80152 6
+20150828 4 4 51836 4
+20150829 2 2 25918 2
+20150830 2 14 984840 2
+20150831 4 4 51836 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 132
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 138 1775383 132 132
+/google8bc0e0a0ffaee658.html 1 53 1 1
+END_SIDER

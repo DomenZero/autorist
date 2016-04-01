@@ -1,0 +1,4 @@
+[02-Nov-2015 16:48:16] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/autorist/public_html/feedback.php on line 10
+[02-Nov-2015 16:48:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/autorist/public_html/feedback.php:10) in /home/autorist/public_html/feedback.php on line 13
+[02-Nov-2015 16:50:07] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/autorist/public_html/feedback.php on line 10
+[02-Nov-2015 16:50:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/autorist/public_html/feedback.php:10) in /home/autorist/public_html/feedback.php on line 13

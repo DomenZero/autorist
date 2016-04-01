@@ -1,0 +1,443 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201303 will be lost/reset.
+# Last config file used to build this data file was /home/autorist/tmp/awstats/awstats.autorist.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2005                
+POS_TIME 2683                
+POS_VISITOR 8664                
+POS_DAY 11256               
+POS_DOMAIN 3429                
+POS_LOGIN 3786                
+POS_ROBOT 3941                
+POS_WORMS 4380                
+POS_EMAILSENDER 4511                
+POS_EMAILRECEIVER 4654                
+POS_SESSION 11847               
+POS_SIDER 12033               
+POS_FILETYPES 4789                
+POS_DOWNLOADS 4948                
+POS_OS 4996                
+POS_BROWSER 5115                
+POS_SCREENSIZE 5658                
+POS_UNKNOWNREFERER 5732                
+POS_UNKNOWNREFERERBROWSER 6098                
+POS_ORIGIN 6249                
+POS_SEREFERRALS 6389                
+POS_PAGEREFS 6557                
+POS_SEARCHWORDS 7019                
+POS_KEYWORDS 7185                
+POS_MISC 2346                
+POS_ERRORS 7258                
+POS_CLUSTER 3642                
+POS_SIDER_404 7343                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130401024401 11 1540 7382217739590
+FirstTime 20130307204330
+LastTime 20130331104713
+LastUpdate 20130401161314 11 0 10 0 0
+TotalVisits 85                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 55 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 44 2954013 9 14 94232
+1 8 23 246422 7 14 177650
+2 3 15 997466 28 29 255675
+3 1 13 971876 8 25 1072129
+4 0 0 0 10 12 51180
+5 4 4 51105 3 6 0
+6 0 0 0 10 14 102360
+7 0 0 0 7 11 96964
+8 6 33 1987751 19 24 0
+9 2 2 25515 12 16 98296
+10 2 14 984671 13 18 74663
+11 1 15 1041657 6 11 49148
+12 5 5 63975 12 17 264002
+13 2 15 1186805 2 4 23558
+14 4 4 38385 17 22 63975
+15 3 3 38160 10 18 51180
+16 6 55 4115228 19 35 296845
+17 6 18 1022906 8 16 113123
+18 4 28 1969342 5 16 215539
+19 11 46 3217490 4 13 241021
+20 6 54 2953481 34 65 682922
+21 23 182 7739214 33 66 557382
+22 11 64 3609932 6 17 106952
+23 7 56 3156072 12 17 151508
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ru 81 615 34983195
+ua 17 17 217365
+de 9 33 2033017
+us 5 17 1010089
+nl 3 3 38385
+lv 2 2 12795
+by 2 2 25590
+kz 2 2 25440
+es 1 1 12795
+ee 1 1 12795
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 83 1061010 20130331170923 0
+googlebot 51 2213488 20130331180130 0
+crawl 25 319650 20130331024630 0
+[\s_+:,\.\;\/\\-]bot 16 103180 20130331105708 0
+robot 5 63975 20130331100859 0
+no_user_agent 3 38385 20130329203027 0
+spider 3 38385 20130330091229 0
+ia_archiver 1 12795 20130320071514 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 48 124716 0 0
+png 96 9697951 0 0
+html 123 1290424 0 0
+jpg 331 27161514 0 0
+js 95 96861 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 14
+winme 17
+winlong 6
+winunknown 2
+winxp 220
+Unknown 7
+linux 82
+win7 345
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 31
+msie6.0 19
+chrome11.0.696.68 13
+firefox15.0 1
+firefox17.0 1
+chrome18.0.1025.162 2
+firefox7.0 1
+firefox2.0.0.1 2
+firefox3.0 1
+chrome22.0.1229 13
+chrome22.0.1106.241 39
+firefox3.6.16 1
+firefox7.0.1 1
+firefox2.0.0.6 3
+opera9.80 187
+msie8.0 1
+chrome22.0.1106.240 13
+mozilla 7
+msie7.0 12
+chrome25.0.1364.172 26
+firefox16.0 3
+chrome22.0.1229.94 26
+chrome25.0.1364.152 55
+firefox3.6.3 1
+wget 1
+firefox19.0 252
+firefox3.0.19 1
+opera9.52 1
+Unknown 3
+firefox11.0 3
+chrome21.0.1180.89 1
+firefox3.6.13 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+multi_get 20130324023213
+Google-Site-Verification/1.0 20130307211100
+Mozilla/5.0_(compatible;_SearchBot) 20130321161532
+Mozilla/5.0_(compatible;_U;_AnyEvent-HTTP/2.15;__http://software.schmorp.de/pkg/AnyEvent) 20130321055152
+Mozilla/3.0_(compatible;_Indy_Library) 20130323193840
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+multi_get 20130324023213
+Google-Site-Verification/1.0 20130307211100
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 67 67
+From1 15 15
+From2 14 14
+From3 18 18
+From4 9 579
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 4 4
+yandex 10 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://www.lastfm.ru/user/DomenZero 4 4
+http://songe.ru 4 4
+http://vk.com/domen0 3 3
+http://webmaster.yandex.ua/site/ 2 2
+http://www.registered-domains-list.com 1 1
+http://catalogsite.barsa-club.ru/site.php 1 1
+http://www.last.fm/user/DomenZero 1 1
+http://www.ru-dop.ru 1 1
+http://resident.su/ru/autorist.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+autorist.ru 7
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+autorist.ru 7
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 254 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 47
+/ 3 -
+/robots.txt 116 -
+/jscripts/ipb_profile.js 2 -
+/4582.html 1 -
+/yandex.php 1 -
+/admin.php 10 -
+/index/40 2 -
+/engine/engine.php 5 -
+/admin/login.php 1 -
+/images/index.htm 2 -
+/1730.html 2 -
+/components/com_content/content.php 3 -
+/ned.php 2 -
+/wp-admin/ 1 -
+/index.html 1 -
+/admin/index.php 1 http://autorist.ru/index.php
+/public/js/ips.moderate.js 2 -
+/configuration.php 3 -
+/xmlrpc.php 4 -
+/phpmyadmin/ 1 -
+/wp-login.phpindex.php 1 autorist.ru/wp-login.phpindex.php
+/mysql/ 1 -
+/wp-content 3 -
+/blocks/ 3 -
+/user/ 1 -
+/common.php 2 -
+/bitrix/admin/index.php 1 -
+/clientscript/vbulletin_tabctrl_rtl.css 2 -
+/fpw.php 3 -
+/511.html 1 -
+/pma/ 1 -
+/typo3/backend.php 1 -
+/administrator/index.php 17 -
+/1173.html 2 -
+/3068.html 1 -
+/1148.html 1 -
+/myadmin/ 1 -
+/1918.html 1 -
+/2928.html 1 -
+/admincp/index.php 1 http://autorist.ru/
+/1175.html 2 -
+/index.php 22 http://AUTORIST.RU/index.php
+/phpMyAdmin/ 1 -
+/wp-login.php 16 -
+/templates/system/css/toolbar.css 3 -
+/admin/ 1 -
+/yandex_51b65f4ba1ba9678.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+194.226.199.4 26 280 11827889 20130327181952
+136.169.250.181 5 5 63975 20130314223841
+93.73.62.141 4 4 51180 20130326194019
+176.195.34.0 3 21 1009144 20130320162621
+31.180.242.202 3 30 2355470 20130311001551
+176.15.90.136 3 3 12795 20130314010339
+109.168.204.187 3 30 2233585 20130307214929
+193.238.96.1 3 3 38385 20130328214112
+46.17.44.50 3 3 38310 20130329222552
+95.211.109.75 3 3 38385 20130329002514
+93.191.98.190 2 2 25590 20130329014228
+37.200.65.208 2 2 25515 20130323123616
+79.143.187.164 2 2 25515 20130324180258
+188.123.248.103 2 2 25590 20130312195453
+89.189.180.47 2 2 25515 20130317080058
+5.138.86.13 2 27 2145886 20130316161927
+5.138.98.38 2 29 2215667 20130315132132
+5.9.85.77 2 2 25590 20130328121225
+31.180.208.90 2 15 1039405 20130311225648
+94.45.81.87 2 2 25440 20130310154034
+195.3.146.94 2 2 12795 20130324142544
+80.77.168.134 2 2 12795 20130319171249
+176.195.196.137 2 26 1943752 20130323171810
+188.134.35.6 1 14 1174010 20130328194109
+89.208.17.22 1 1 12795 20130321055152
+88.198.230.8 1 1 12720 20130310174348
+37.72.87.92 1 1 12795 20130325120722
+46.185.70.191 1 1 12795 20130313003004
+92.47.35.219 1 1 12720 20130309171714
+109.207.13.33 1 1 12795 20130321161532
+46.63.215.206 1 13 971876 20130325231006
+46.164.243.73 1 1 12795 20130330004923
+176.51.214.207 1 1 12795 20130320235132
+5.9.49.41 1 13 971801 20130311083909
+95.221.6.100 1 13 971876 20130321234414
+178.71.221.168 1 1 0 20130323082325
+178.137.93.71 1 1 12795 20130311235419
+194.226.199.227 1 13 971876 20130312183845
+79.158.151.102 1 1 12795 20130329002444
+178.137.163.12 1 1 12795 20130330203408
+31.180.254.248 1 13 959081 20130320005504
+92.112.176.9 1 1 12795 20130315161213
+94.41.165.143 1 1 12795 20130315122232
+188.134.35.72 1 13 971876 20130313000335
+5.9.39.41 1 1 12795 20130324023213
+74.125.17.219 1 1 53 20130307211100
+128.72.68.18 1 1 12795 20130315104524
+62.122.64.109 1 1 12795 20130324233531
+46.63.232.133 1 13 971876 20130331104713
+88.198.9.123 1 1 12795 20130330051913
+46.201.76.192 1 1 12795 20130312145133
+66.249.81.240 1 13 971801 20130307211334
+46.22.211.124 1 1 12795 20130320052834
+159.224.10.26 1 1 12795 20130312090451
+46.63.149.39 1 13 971876 20130316160858
+5.9.88.82 1 13 971801 20130311083909
+95.57.154.11 1 1 12720 20130311051426
+188.134.33.122 1 11 969319 20130317194545
+176.51.254.42 1 1 12795 20130315202657
+194.12.64.4 1 1 12795 20130323193840
+199.30.228.148 1 1 12795 20130312133942
+89.110.14.77 1 13 971876 20130325030452
+204.68.97.132 1 1 12720 20130308194742
+74.125.181.18 1 1 12720 20130307210727
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20130307 22 207 8053598 6
+20130308 3 27 1161129 3
+20130309 2 2 25440 2
+20130310 7 34 2419070 5
+20130311 13 98 5949655 8
+20130312 6 18 1035851 5
+20130313 3 27 1956547 3
+20130314 8 8 76770 2
+20130315 6 33 2266847 6
+20130316 3 40 3117762 2
+20130317 2 12 982114 2
+20130319 2 2 12795 1
+20130320 6 36 1993815 6
+20130321 5 17 1023056 5
+20130323 5 29 1969342 5
+20130324 7 19 1035851 6
+20130325 3 27 1956547 3
+20130326 5 5 63975 2
+20130327 1 13 971876 1
+20130328 5 18 1225190 4
+20130329 5 5 63975 4
+20130330 3 3 38385 3
+20130331 1 13 971876 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+5mn-15mn 2
+0s-30s 77
+15mn-30mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 119 1290038 84 83
+/google8bc0e0a0ffaee658.html 2 106 1 1
+/yandex_5071c55664bc672b.html 1 140 0 0
+/yandex_51b65f4ba1ba9678.html 1 140 0 1
+END_SIDER

@@ -1,0 +1,264 @@
+# Webalizer V2.23-05 Incremental Data - 11/01/2015 14:29:22
+2015 11 1 14 29 22
+48 40 15 13 3 14 2064153 14 13 0
+15 3 15 1 1
+48 40 2064153 15 14 13
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+15 13 977240 2
+14 13 971881 2
+1 0 0 0
+10 9 50237 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 12959 2
+0 0 0 0
+2 1 12959 1
+0 0 0 0
+1 1 12959 1
+3 2 25918 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/infopic/4_Rek.jpg
+0 2 0 169034 0 0
+/img/infopic/7_Rek.jpg
+0 2 26094640 187282 0 0
+/styles.css
+0 4 26335040 13128 0 0
+/img/infopic/3_Rek.png
+0 2 26094160 353216 0 0
+/img/gradient_light.jpg
+0 1 26082736 7600 0 0
+/img/infopic/2_Rek.jpg
+0 2 26026256 264224 0 0
+/img/Avto.png
+0 2 26016864 135058 0 0
+/jquery.scrollTo-1.4.2/jquery.scrollTo-min.js
+0 4 26016944 9008 0 0
+/img/infopic/1_Reklam.jpg
+0 2 26094720 404268 0 0
+/
+0 11 26039104 142549 10 0
+/img/infopic/5_Rek.jpg
+0 2 26094400 202510 0 0
+/script.js
+0 4 26017184 584 0 0
+/img/infopic/6_Rek.jpg
+0 2 26094528 175692 0 0
+# End Of Table - urls
+# -sites- (monthly)
+194.44.128.142
+0 3 2 25918 1 1446388161
+/
+crawl-66-249-64-56.googlebot.com
+0 1 1 12959 1 1446377079
+/
+broadband-46-242-113-191.nationalcablenetworks.ru
+0 7 7 24319 1 1446352491
+/
+46x147x119x181.dynamic.rostov.ertelecom.ru
+0 13 13 971881 1 1446345693
+/
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 1 12959 1 1446385801
+/
+23.99.213.214
+0 1 0 0 0 0
+-
+msnbot-157-55-39-97.search.msn.com
+0 2 0 0 1 1446369481
+-
+176.14.111.132
+0 1 0 0 1 1446345691
+-
+crawl-66-249-64-46.googlebot.com
+0 1 0 0 0 0
+-
+2.92.220.249
+0 12 12 964281 1 1446343088
+/
+109.234.156.66
+0 1 1 12959 1 1446350998
+/
+91.224.140.213
+0 1 1 12959 1 1446368792
+/
+dynamicip-94-180-239-42.pppoe.kzn.ertelecom.ru
+0 1 0 0 1 1446352483
+-
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 1 12959 1 1446351057
+/
+static.75.32.4.46.clients.your-server.de
+0 2 1 12959 1 1446340913
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+194.44.128.142
+0 3 2 25918 1 1446388161
+/
+crawl-66-249-64-56.googlebot.com
+0 1 1 12959 1 1446377079
+/
+broadband-46-242-113-191.nationalcablenetworks.ru
+0 7 7 24319 1 1446352491
+/
+46x147x119x181.dynamic.rostov.ertelecom.ru
+0 13 13 971881 1 1446345693
+/
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 1 12959 1 1446385801
+/
+23.99.213.214
+0 1 0 0 0 0
+-
+msnbot-157-55-39-97.search.msn.com
+0 2 0 0 1 1446369481
+-
+176.14.111.132
+0 1 0 0 1 1446345691
+-
+crawl-66-249-64-46.googlebot.com
+0 1 0 0 0 0
+-
+2.92.220.249
+0 12 12 964281 1 1446343088
+/
+109.234.156.66
+0 1 1 12959 1 1446350998
+/
+91.224.140.213
+0 1 1 12959 1 1446368792
+/
+dynamicip-94-180-239-42.pppoe.kzn.ertelecom.ru
+0 1 0 0 1 1446352483
+-
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 1 12959 1 1446351057
+/
+static.75.32.4.46.clients.your-server.de
+0 2 1 12959 1 1446340913
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.autorist.ru/
+0 29
+- (Direct Request)
+0 14
+http://yandex.ru/clck/jsredir
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Touch; MALNJS)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 13
+GuzzleHttp/6.1.0 curl/7.35.0 PHP/5.6.14-1+deb.sury.org~trusty+1
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MATMJS)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 1
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.2 (build 7314)) Presto/2.12.388 Version/12.16
+0 12
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 2
+Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.16
+0 1
+Mozilla/5.0 (Windows; U; Win98; ru-RU; rv:1.5) Gecko/20031006
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.81 Chrome/43.0.2357.81 Safar
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

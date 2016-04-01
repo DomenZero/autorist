@@ -1,0 +1,24 @@
+/*Regular font*/
+@font-face {
+ font-family: 'Verdana';
+  src: url('../fonts/Verdana.eot?#iefix') format('embedded-opentype'),  url('../fonts/Verdana.otf')  format('opentype'),
+	     url('../fonts/Verdana.woff') format('woff'), url('../fonts/Verdana.ttf')  format('truetype'), url('../fonts/AdobeTextPro-It.svg#AdobeTextPro-It') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*Regular font*/
+@font-face {
+ font-family: 'Verdana_italic';
+  src: url('../fonts/Verdana_italic.eot?#iefix') format('embedded-opentype'),  url('../fonts/Verdana_italic.otf')  format('opentype'),
+	     url('../fonts/Verdana_italic.woff') format('woff'), url('../fonts/Verdana_italic.ttf')  format('truetype'), url('../fonts/AdobeTextPro-It.svg#AdobeTextPro-It') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*Special font*/
+@font-face {
+	  font-family: 'Metropolis1920';
+  src: url('../fonts/Metropolis 1920.eot?#iefix') format('embedded-opentype'),  url('../fonts/Metropolis 1920.otf')  format('opentype'),
+	     url('../fonts/Metropolis 1920.woff') format('woff'), url('../fonts/Metropolis 1920.ttf')  format('truetype'), url('../fonts/AdobeTextPro-Regular.svg#AdobeTextPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
