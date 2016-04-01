@@ -8,4 +8,4 @@ Site for company "Автоюрист Буденновск" :ok_hand:
 - Путь для запуска public_html/index.html
 - Проект закрыт. Существовало несколько вариантов в период с 2013 по 2016 год. Это последняя версия. :metal:
 
-
+![](https://s-media-cache-ak0.pinimg.com/564x/21/ab/a4/21aba4d87ee154a7db29695934cb808c.jpg)
